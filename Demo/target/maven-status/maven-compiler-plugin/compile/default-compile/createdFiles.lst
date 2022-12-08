@@ -1,0 +1,12 @@
+com\mycompany\demo\components\Engine.class
+com\mycompany\demo\components\Transmission.class
+com\mycompany\demo\Demo.class
+com\mycompany\demo\cars\Car.class
+com\mycompany\demo\cars\Manual.class
+Director\Director.class
+Builders\CarManualBuilder.class
+com\mycompany\demo\components\GPSNavigator.class
+Builders\CarBuilder.class
+Builders\Builder.class
+com\mycompany\demo\cars\CarType.class
+com\mycompany\demo\components\TripComputer.class
